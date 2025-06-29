@@ -18,7 +18,7 @@ public class Array{
         }
 
         System.out.println("List: " + list);
-
+        sc.close();
 
     }
 }
